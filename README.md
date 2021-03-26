@@ -1,2 +1,3 @@
-# youtube-materialui
-Youtube Clone
+# Youtube Clone
+
+Projeto desenvolvido com React e Material-UI
