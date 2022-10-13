@@ -11,7 +11,7 @@ npm install
 
 ## Executar projeto
 ```
-npm install
+npm start
 ```
 
 Abrir em [http://localhost:3000](http://localhost:3000) para visualizar em seu navegador.
