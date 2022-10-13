@@ -1,12 +1,17 @@
 # Youtube Clone
 
-Project developed with React and Material UI.
+Projeto desenvolvido com React e Material UI.
 
-## Available Scripts
+### Instalação
 
-In the project directory, you can run:
+Instalando as dependencias
+```
+npm install
+```
 
-### `yarn start`
+## Executar projeto
+```
+npm install
+```
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Abrir em [http://localhost:3000](http://localhost:3000) para visualizar em seu navegador.
